@@ -1,0 +1,30 @@
+Command line
+    - argument parsing
+    - starting point
+
+File system
+    - open new folders
+    - pathing
+    - handling parent hierarchy
+    - copy files and directories
+File Edit:
+    - create new file
+    - edit file
+
+Commit?:
+    - hashing
+    - properties
+    - connections to other commits
+
+
+Wit (init, add, commit)
+    - init
+
+FilesTracker:
+    - keeps track on what changes happened to what files
+    - infromative
+
+Tree:
+    - keep track of the tree
+    - moving inside the tree
+    - implementation of checkout
